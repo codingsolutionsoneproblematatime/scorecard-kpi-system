@@ -26,9 +26,8 @@ sql/	Sample SQL queries used to extract KPI data
 excel/	A template Excel scorecard with demo data and formulas
 
 ## Sample Screenshots
-Scorecard Excel Template (Blurred)
-
-Microsoft Forms Morale Survey
+- [Scorecard Excel Template (Blurred)](docs/blurred_scorecard.png)
+- [Microsoft Forms Morale Survey](docs/microsoft_forms_morale_survey.png)
 
 ## Tools Used
 SQL Server & SSMS
